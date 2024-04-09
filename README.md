@@ -2,7 +2,7 @@
 
 
 # CARPETAS
-[PC1]()
+[PC1](https://github.com/Fx2048/Intro_Challenge1/tree/main/PC1_INTRO)
 
 [PC2]()
 
